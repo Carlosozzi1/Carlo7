@@ -14,7 +14,7 @@ body {
     animation: show 8s ease;
 }
 .bg-01 {
-    background-image: url(Assets/Mitski.gif);
+    background-image: url(assets/Mitski.gif);
     background-size: cover;
 }
 .carlo {
